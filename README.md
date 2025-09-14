@@ -1,4 +1,6 @@
-# **Churn Analysis of Customer using Excel and Power BI**
+# **Churn Analysis of Customers using Excel and Power BI**  
+👨‍💻 *Authored by Abhinav Dubey*  
+
 
 ## Hello Welcome to my Churn Analysis of Customer's project. I used Power BI Desktop and Excel to find patterns and trends to help businesses prevent customer loss and improve customer service.
 
