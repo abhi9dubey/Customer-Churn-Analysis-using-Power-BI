@@ -13,8 +13,15 @@
 1. Power BI Desktop
 2. Excel
 
-## Key Insights:
-![key insights](https://github.com/DataVizExpert-Sham/Predictive-Customer-Analytics-in-Power-BI/assets/151017676/af60d484-23ad-4c03-ad5a-fc9af7ea0af4)
+## 🔑 Key Insights
+
+- 📉 **Churn Rate:** Last month, churn was **27%** — out of **7,043** customers, **1,869 left** the company.  
+- 📊 **Contract & Tenure:** Customers on **monthly contracts** or with **shorter tenure** are far more likely to churn.  
+- 👥 **Demographics:** Customers **without dependents or partners** show higher churn risk compared to those who have them.  
+- 👴 **Age Factor:** **Senior citizens churn less** than younger customers, while **gender has little impact**.  
+- 🌐 **Internet Type:** Customers using **Fibre Optic** internet churn more than those using DSL or other services.  
+- 💳 **Payment Method:** Churn is highest among those paying via **Electronic check**.  
+- 🛡️ **Services Gap:** Customers without **Tech Support, Device Protection, or Online Security** are more dissatisfied and more likely to switch.  
 
 
 ## **Main Benefits:**
