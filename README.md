@@ -30,7 +30,7 @@
 2. **Boost satisfaction**: Gain deeper insights into customer needs to deliver better service.  
 3. **Enable data-driven decisions**: Leverage analytics to make smarter choices for improving retention.  
 
-![Customer Risk Analysis](https://github.com/DataVizExpert-Sham/Predictive-Customer-Analytics-in-Power-BI/assets/151017676/17438de8-0003-488f-8c98-5e2e918bd4b7)
+![Customer Risk Analysis](https://github.com/abhi9dubey/Customer-Churn-Analysis-using-Power-BI/blob/main/CUSTOMER%20RISK%20ANALYSIS%20DASHBOARD.png).
 
 ## **Beyond the Dashboard: Communication for Impact**
 Along with building dashboards, I focus on helping clients interpret the data and turn insights into actions. Through clear communication, I:  
